@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\while_classwork\while_4\bin\Debug\while_4.exe.config
+C:\Users\Пользователь\Desktop\while_classwork\while_4\bin\Debug\while_4.exe
+C:\Users\Пользователь\Desktop\while_classwork\while_4\bin\Debug\while_4.pdb
+C:\Users\Пользователь\Desktop\while_classwork\while_4\obj\Debug\while_4.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\while_classwork\while_4\obj\Debug\while_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\while_classwork\while_4\obj\Debug\while_4.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\while_classwork\while_4\obj\Debug\while_4.exe
+C:\Users\Пользователь\Desktop\while_classwork\while_4\obj\Debug\while_4.pdb

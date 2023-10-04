@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\bin\Debug\while_classwork.exe.config
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\bin\Debug\while_classwork.exe
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\bin\Debug\while_classwork.pdb
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\obj\Debug\while_classwork.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\obj\Debug\while_classwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\obj\Debug\while_classwork.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\obj\Debug\while_classwork.exe
+C:\Users\Пользователь\Desktop\while_classwork\while_classwork\obj\Debug\while_classwork.pdb
